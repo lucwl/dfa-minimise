@@ -1,6 +1,6 @@
-# dfa
+# dfa-minise
 
-DFA minimize algorithm implemented in Python.
+DFA minimisation algorithm implemented in Python.
 
 # Reference
 
